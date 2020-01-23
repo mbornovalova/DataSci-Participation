@@ -4,6 +4,8 @@
 
 #author:Marina Bornovalova
 
+# Creating a merge conflict
+
 **below, I run through a few basic functions to describe the BFI dataset**
 
 *Load psych library and BFI dataset*
