@@ -16,4 +16,4 @@ https://github.com/mbornovalova
 
 ## So if I was to style my website after yours, it would read something like...
 
-####I'm an associate professor of clinical psychology. My research centers around how individual differences (i.e., personality) are related to personality disorders and addictions. 
+#### I'm an associate professor of clinical psychology. My research centers around how individual differences (i.e., personality) are related to personality disorders and addictions. 
