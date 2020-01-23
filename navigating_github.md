@@ -14,3 +14,6 @@ https://github.com/mbornovalova
 
 [Faina Ranevskaya Quotes](https://www.azquotes.com/author/55697-Faina_Ranevskaya)
 
+## So if I was to style my website after yours, it would read something like...
+
+####I'm an associate professor of clinical psychology. My research centers around how individual differences (i.e., personality) are related to personality disorders and addictions. 
