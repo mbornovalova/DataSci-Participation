@@ -33,8 +33,8 @@ George Orwell
 #not entirely clear how to insert pics or websites; 
 #also, should this link to my local folder? 
 
-![Painting](/Users/bornovalova/Desktop/GitHub/DataSci-Participation/Painting.jpg)
+![Painting](Painting.jpg)
 #what does this do?
 
-Format: ![Alt Text](url)
+<!-- Format: ![Alt Text](url) -->
 
